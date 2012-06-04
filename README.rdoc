@@ -1,3 +1,3 @@
-# Mi primer aplicacióne n Ruby on Rails
+# Mi primer aplicación en Ruby on Rails
 
 So this is my first application on ROR, let's see how it goes...
